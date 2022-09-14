@@ -1,0 +1,20 @@
+* Método:
+É uma porçaõ de código (subrotina) que é disponibilizado por uma classe, é executado quando é feita uma requisição a ele. São responsáveis por definir e realizar um determinado comportamento.
+
+assinatura: nome + parâmetro
+
+* Sobrecarga:
+é a capacidade de definir métodos para diferentes contextos, preservando seus nomes. Mantêm-se o nome e muda a lista (qtde e/ou tipo) de paramêtro. è diferente de sobreescrita.
+
+*Retornos:
+É uma instrução de interrupção.
+o método executa seu retorno quando:
+completa tds suas instruções internas; chega uma declaração explícita de retorno ou quando lança uma exceção (erro).
+- o tipo de retorno é definido na sua criação e pode ser primitivo ou objeto;
+- o tipo de dado deve ser compatível ao do método;
+- se o método for sem retorno(void), pode ter ou não um "return"  para encerrar sua execução.
+
+
+
+*Link slides:
+https://docs.google.com/presentation/d/1InCKAqx_Vocw9BxN95JTtcDpPnredEOa/edit#slide=id.p2
