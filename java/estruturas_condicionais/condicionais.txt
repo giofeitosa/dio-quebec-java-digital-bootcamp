@@ -1,0 +1,13 @@
+* Estruturas condicionais
+Possibilita a escolha de um grpupo de ações e comportamentos a serem executadas qdo determinadas condições são satisfeitas.
+
+- Condicional simples: só há dois fluxos, verdadeira ou positivo
+ex. If
+- composta: quando necessita seguir mais de uma jornada de execução uma regra de negócio.
+ex. If e Else
+
+- Encadeada: pode seguir variadas jornadas 
+
+
+Link slides:
+https://docs.google.com/presentation/d/1kt8Qcrkcv0S0aph4vNcDHeo8G2ek6uyQ/edit#slide=id.p4

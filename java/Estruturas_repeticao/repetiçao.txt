@@ -1,0 +1,21 @@
+* Laços de repetição:
+
+Estruturas que permitem iteração de código, ou seja, que comandos que comandos sejam repetidos.
+
+- For: Permite que uma variável contadora seja testada e incrementada a cada iteração.
+ 'for(bloco de inicialização; expressão de validação; bloco de incrementação)'
+for each;
+for (String aluno : aluno) (simplificado)
+
+- Break: interrompe o laço
+- Continue: interrompe somente a iteração atual
+
+- while: determina que enquanto a condição for válida o bloco será executado. Ela testa a condição antes de executar o código.
+"While(condição)"
+
+-do/while: testa a condição posteriormente executar o código.
+do {
+}whila(condição)
+
+Link slides:
+https://docs.google.com/presentation/d/1kt8Qcrkcv0S0aph4vNcDHeo8G2ek6uyQ/edit#slide=id.p4
